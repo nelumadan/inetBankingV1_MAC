@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="InetBankingV1" duration-ms="23894" started-at="2022-03-04T19:04:52 PST" finished-at="2022-03-04T19:05:16 PST">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="23894" started-at="2022-03-04T19:04:52 PST" finished-at="2022-03-04T19:05:16 PST">
+      <class name="com.inetbanking.testCases.LoginTest_001">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.inetbanking.testCases.LoginTest_001@ff5b51f]" name="BeforeSuite" is-config="true" duration-ms="274" started-at="2022-03-04T19:04:52 PST" finished-at="2022-03-04T19:04:52 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.LoginTest_001@ff5b51f]" name="setup" is-config="true" duration-ms="15914" started-at="2022-03-04T19:04:52 PST" finished-at="2022-03-04T19:05:08 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.inetbanking.testCases.LoginTest_001@ff5b51f]" name="loginTest" duration-ms="7740" started-at="2022-03-04T19:05:08 PST" finished-at="2022-03-04T19:05:16 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.inetbanking.testCases.LoginTest_001@ff5b51f]" name="teardown" is-config="true" duration-ms="217" started-at="2022-03-04T19:05:16 PST" finished-at="2022-03-04T19:05:16 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.inetbanking.testCases.LoginTest_001@ff5b51f]" name="AfterSuite" is-config="true" duration-ms="475" started-at="2022-03-04T19:05:16 PST" finished-at="2022-03-04T19:05:16 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.inetbanking.testCases.LoginTest_001 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBankingV1 -->
+</testng-results>

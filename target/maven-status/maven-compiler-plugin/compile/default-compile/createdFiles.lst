@@ -1,0 +1,5 @@
+com/inetbanking/utilities/ReadConfig.class
+com/inetbanking/utilities/ExcelUtil.class
+com/inetbanking/pageObjects/LoginPage.class
+com/inetbanking/pageObjects/NewCustomerPage.class
+com/inetbanking/pageObjects/EditCustomerPage.class
